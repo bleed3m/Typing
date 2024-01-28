@@ -1,3 +1,7 @@
+const paragraphs = [
+    "les go do sm.",
+];
+
 const typingText = document.querySelector(".typing-text p")
 const inpField = document.querySelector(".wrapper .input-field")
 const tryAgainBtn = document.querySelector(".content button")
